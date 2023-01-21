@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 21/1/2023
 
@@ -14,19 +12,21 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
-enjoy :)
+
 ### Files used
-To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a Exploring US Bikeshare Data.ipynb file, and you will do your scripting in there also. You will need the three city dataset files too:
+To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a Exploring US Bikeshare Data.ipynb file, and you will do your scripting in there also. You will need the three city dataset.
+
+files too:
 
 chicago.csv
 new_york_city.csv
 washington.csv
-You may download and open up that zip file to do your project work on your local machine.
+
+You may download from link provuded.
 
 
 ### Credits
-Udacity
 py community  
 
 ## About me
-Im elyas a data scientist
+I'm Elyas a data scientist, working now as data analyst.
